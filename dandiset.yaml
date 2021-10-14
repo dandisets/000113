@@ -17,6 +17,7 @@ identifier: DANDI:000113
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000113/versions/draft/assets/
 name: bla
+repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 url: https://dandiarchive.org/dandiset/000113/draft
